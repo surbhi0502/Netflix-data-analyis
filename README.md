@@ -45,4 +45,4 @@ The Power BI dashboard provides visual insights into Netflix content and trends.
 
 ## 👩‍💻 Author
 
-Surbhi Pandey
+Surbhi Kumari
